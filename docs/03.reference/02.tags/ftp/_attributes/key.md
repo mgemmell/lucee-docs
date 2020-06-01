@@ -1,1 +1,1 @@
-the ssh private key
+Path to the SSH private key file
